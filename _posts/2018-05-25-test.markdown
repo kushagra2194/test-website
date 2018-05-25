@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: page
+title:  "new"
 date:   2018-05-25 17:56:09 +0530
 categories: jekyll update
 ---
-hello
+hello 
+this is a test page
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
